@@ -277,7 +277,7 @@
 				<Title>water_villa_h2o_150</Title>
 				<Abstract>GH:water_villa_h2o_150 ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸5</Keyword>
+					<Keyword>group:shp:::disabledownload:notListing::maxZoom:5</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="21.2005043029785" miny="42.6164512634277" maxx="21.204719543457" maxy="42.6178131103516"></LatLonBoundingBox>
@@ -297,7 +297,7 @@
 				<Title>water_villa_h2o_1650</Title>
 				<Abstract>GH:water_villa_h2o_1650 ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸5</Keyword>
+					<Keyword>group:shp:::disabledownload:notListing::maxZoom:5</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="21.1957130432129" miny="42.6142272949219" maxx="21.2027549743652" maxy="42.6176071166992"></LatLonBoundingBox>
@@ -317,7 +317,7 @@
 				<Title>water_villa_h2o_15_25__poly_villa_</Title>
 				<Abstract>GH:water_villa_h2o_15_25__poly_villa_ ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸5</Keyword>
+					<Keyword>group:shp:::disabledownload:notListing::maxZoom:5</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="21.1980901927991" miny="42.6125802141536" maxx="21.2034183062923" maxy="42.614896667485"></LatLonBoundingBox>
@@ -337,7 +337,7 @@
 				<Title>water_villa_h2o_grid_1000m</Title>
 				<Abstract>GH:water_villa_h2o_grid_1000m ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸5</Keyword>
+					<Keyword>group:shp:::disabledownload:notListing::maxZoom:5</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="21.16342215928717" miny="42.58951618400182" maxx="21.222667573800535" maxy="42.66016093548792"></LatLonBoundingBox>
@@ -357,7 +357,7 @@
 				<Title>kml__m_energy__h2o_r290_320</Title>
 				<Abstract>GH:kml__m_energy__h2o_r290_320 ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸5</Keyword>
+					<Keyword>group:shp:::disabledownload:notListing::maxZoom:5</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="35.26012744059768" miny="30.22100924076366" maxx="35.26882353379091" maxy="30.22922415116042"></LatLonBoundingBox>
@@ -377,7 +377,7 @@
 				<Title>kml__m_energy__h2o_r70_90</Title>
 				<Abstract>GH:kml__m_energy__h2o_r70_90 ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸5</Keyword>
+					<Keyword>group:shp:::disabledownload:notListing::maxZoom:5</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="35.291761849939" miny="30.22308675676659" maxx="35.30964542739543" maxy="30.22614824522763"></LatLonBoundingBox>
@@ -397,7 +397,7 @@
 				<Title>mapy_cz</Title>
 				<Abstract>GH:mapy_cz ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸tif˸˸˸disabledownload˸notListing˸˸maxZoom˸5</Keyword>
+					<Keyword>group:tif:::disabledownload:notListing::maxZoom:5</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-180.0" miny="-85.0511287798066" maxx="179.99999999999997" maxy="85.05112877980659"></LatLonBoundingBox>
@@ -417,7 +417,7 @@
 				<Title>au_f50_100</Title>
 				<Abstract>GH:au_f50_100 ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸2</Keyword>
+					<Keyword>group:shp:::disabledownload:notListing::maxZoom:2</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="35.21286689128896" miny="29.37367333489055" maxx="35.25822610706837" maxy="29.42168943502965"></LatLonBoundingBox>
