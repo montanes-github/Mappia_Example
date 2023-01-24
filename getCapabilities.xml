@@ -417,7 +417,7 @@
 				<Title>au_f50_100</Title>
 				<Abstract>GH:au_f50_100 ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸2</Keyword>
+					<Keyword>group:shp:::disabledownload:notListing::maxZoom:2</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="35.21286689128896" miny="29.37367333489055" maxx="35.25822610706837" maxy="29.42168943502965"></LatLonBoundingBox>
